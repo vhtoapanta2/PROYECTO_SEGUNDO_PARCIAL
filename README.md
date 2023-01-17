@@ -66,9 +66,11 @@ CORRIENTE MEDIDA CON EL FOCO PRENDIDO
 
       VIDEO
 
-LINK:
+LINK: https://www.youtube.com/watch?v=edQFSr8Ning
 
       CONCLUSIONES:
+
+Como resultado observamos que el circuito que se implementa en una escalera cuenta con un interruptor especial que se denomina conmutador, que consta con L1, L2, L
 
       BIBLIOGRAFIA:
 
