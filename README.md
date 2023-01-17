@@ -72,6 +72,8 @@ LINK: https://www.youtube.com/watch?v=edQFSr8Ning
 
 Como resultado observamos que el circuito que se implementa en una escalera cuenta con un interruptor especial que se denomina conmutador, que consta con L1, L2, L
 
+De tal forma que se pudo saber que la función de un conmutador eléctrico es la de desviar de un circuito a otro la corriente eléctrica. Permiten con facilidad los diferentes cambios que puede haber en circuitos complejos y son muy utilizados en instalaciones eléctricas residenciales, aplicaciones electrónicas y electrodomésticos en general.
+
       BIBLIOGRAFIA:
 
 • Circuitos Conmutados Cruzamiento ElÃ©ctrico Instalaciones para Luz. (s.f.). Tecnologia FÃ¡cil: Electricidad, ElectrÃ³nica, InformÃ¡tica, etc. https://areatecnologia.com/electricidad/circuito-conmutado.html
