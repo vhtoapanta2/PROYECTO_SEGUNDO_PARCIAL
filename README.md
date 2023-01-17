@@ -24,7 +24,7 @@ INTERRUPTOR DE TRES VÍÁS (Luz de escaleras)
 
 OBJETIVOS GENERALES:
 
-Realizar un proyecto de  "Led nocturno automatico" en el protoboard utilizando una fotorresistencia que ayude a conocer el funcionamiento de la misma
+Realizar un proyecto con un interruptor de tres vias que permite el encendido y apagado de cualquier tipo de carga desde 2 puntos
 
 OBJETIVOS ESPECIFICOS:
 
@@ -32,7 +32,7 @@ OBJETIVOS ESPECIFICOS:
 
 • Conectar los componentes en el circuito conociendo las polaridades de cada una
 
-• Controlar la activación de los led según el nivel de iluminación que cae sobre la fotorresistencia.
+• Realizar las mediciones que sean necesarias dentro del circuito.
 
       MARCO TEORICO
 
